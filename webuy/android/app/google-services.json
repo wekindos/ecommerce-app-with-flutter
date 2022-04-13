@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "396001760757",
+    "project_id": "webuy-76d84",
+    "storage_bucket": "webuy-76d84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396001760757:android:a498952263a298e2f43cbc",
+        "android_client_info": {
+          "package_name": "com.example.webuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396001760757-5pv5duvsdcg6decsh7m449rp5pg2chct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy6idz7KN8hF2iSKiNyzMo3D9APne_E8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396001760757-5pv5duvsdcg6decsh7m449rp5pg2chct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
